@@ -1,0 +1,36 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SearchFabric.API", "SearchFabric.API\SearchFabric.API.csproj", "{8B5F3E1B-F291-499E-84E2-CF1A733BD718}"
+EndProject
+Project("{A07B5EB6-E848-4116-A8D0-A826331D98C6}") = "SearchFabricApplication", "SearchFabricApplication\SearchFabricApplication.sfproj", "{5292BF51-4262-4211-B681-6D8DA2559689}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SearchFabric.Index", "SearchFabric.Index\SearchFabric.Index.csproj", "{9BBBFD0C-102D-4989-A87D-27033E6C7CC0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8B5F3E1B-F291-499E-84E2-CF1A733BD718}.Debug|x64.ActiveCfg = Debug|x64
+		{8B5F3E1B-F291-499E-84E2-CF1A733BD718}.Debug|x64.Build.0 = Debug|x64
+		{8B5F3E1B-F291-499E-84E2-CF1A733BD718}.Release|x64.ActiveCfg = Release|x64
+		{8B5F3E1B-F291-499E-84E2-CF1A733BD718}.Release|x64.Build.0 = Release|x64
+		{5292BF51-4262-4211-B681-6D8DA2559689}.Debug|x64.ActiveCfg = Debug|x64
+		{5292BF51-4262-4211-B681-6D8DA2559689}.Debug|x64.Build.0 = Debug|x64
+		{5292BF51-4262-4211-B681-6D8DA2559689}.Debug|x64.Deploy.0 = Debug|x64
+		{5292BF51-4262-4211-B681-6D8DA2559689}.Release|x64.ActiveCfg = Release|x64
+		{5292BF51-4262-4211-B681-6D8DA2559689}.Release|x64.Build.0 = Release|x64
+		{5292BF51-4262-4211-B681-6D8DA2559689}.Release|x64.Deploy.0 = Release|x64
+		{9BBBFD0C-102D-4989-A87D-27033E6C7CC0}.Debug|x64.ActiveCfg = Debug|x64
+		{9BBBFD0C-102D-4989-A87D-27033E6C7CC0}.Debug|x64.Build.0 = Debug|x64
+		{9BBBFD0C-102D-4989-A87D-27033E6C7CC0}.Release|x64.ActiveCfg = Release|x64
+		{9BBBFD0C-102D-4989-A87D-27033E6C7CC0}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
