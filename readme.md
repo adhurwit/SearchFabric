@@ -7,7 +7,7 @@ This is currently a Proof of Concept.
 **Please let me know if you are interested in moving this forward**
 
 The ReliableRAMStore repository is located here
-[ReliableRAMStore](http://github.com)
+[ReliableRAMStore](https://github.com/adhurwit/ReliableRAMStore)
 
 
 **Versions**
