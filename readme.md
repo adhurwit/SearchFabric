@@ -12,7 +12,7 @@ The ReliableRAMStore repository is located here
 
 **Versions**
 
-- v0.1 - 8/15 - Proof of Concept**
+- v0.1 - 8/8 - Proof of Concept**
 
 
 
